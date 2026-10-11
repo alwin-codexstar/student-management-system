@@ -1,0 +1,1 @@
+</main><footer class="footer">Student Management System © 2026</footer></body></html>
